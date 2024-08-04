@@ -1,7 +1,7 @@
 - 👋 Hi, I’m "Mujjassim Mev"
-- 👀 I’m interested in "Software Development"
-- 🌱 I’m currently learning "Advanced java"
-- 💞️ I’m looking to collaborate on "java project"
+- 👀 I’m "Software Development Engineer"
+- 🌱 I’m currently working at "Canopus Infosystems PVT"
+- 💞️ I’m "Javascript Passionate" 
 - 📫 How to reach me through "mujjassim121998@gmail.com"
 
 <!---
